@@ -1,0 +1,14 @@
+my:
+    greeting: Hello from config server
+    list:
+        values: One, Two, Three
+
+dev-ops:
+#Common Config
+  common:
+  
+#Web
+  web:
+    inbound:
+      enabled: false
+      curr-value: 11
