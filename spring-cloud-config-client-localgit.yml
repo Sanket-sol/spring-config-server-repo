@@ -1,5 +1,5 @@
 my:
-    greeting:  Hello,Get new configuration from config server for spring-cloud-config-client-localgit microservice 123
+    greeting:  Hello,Get configuration from config server for spring-cloud-config-client-localgit microservice 123
     #list:
     #    values: One, Two, Three, Four, Five, Six
 
