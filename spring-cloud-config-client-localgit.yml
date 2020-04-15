@@ -1,5 +1,6 @@
 my:
-    greeting:  Hello,Get response after batch script run configuration from config server for spring-cloud-config-client-localgit microservice 123
+    greeting:  Hello Prem,
+    #Get response after batch script run configuration from config server for spring-cloud-config-client-localgit microservice 123
     #list:
     #    values: One, Two, Three, Four, Five, Six
 
